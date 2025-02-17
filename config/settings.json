@@ -1,0 +1,9 @@
+{
+    "repo_path": "/path/to/python/repo",
+    "neo4j": {
+        "url": "bolt://localhost:7687",
+        "user": "neo4j",
+        "password": "your_password",
+        "database_name": "codelink_db"
+    }
+}
